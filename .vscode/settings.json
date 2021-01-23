@@ -1,0 +1,10 @@
+{
+    "editor.fontWeight": "normal",
+    "editor.mouseWheelZoom": true,
+    "editor.formatOnSave": true,
+    "editor.quickSuggestions": true,
+    "workbench.colorTheme": "Snazzy Operator",
+    "workbench.preferredDarkColorTheme": "Snazzy Operator",
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.triggerExpansionOnTab": true
+}
