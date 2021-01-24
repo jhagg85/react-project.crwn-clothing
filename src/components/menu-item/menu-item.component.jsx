@@ -19,6 +19,6 @@ const MenuItem = ({ title, imageUrl, size, history, linkUrl, match }) => (
             <span className='title'>SHOP NOW</span>
         </div>
     </div>
-)
+);
 
 export default withRouter(MenuItem);
